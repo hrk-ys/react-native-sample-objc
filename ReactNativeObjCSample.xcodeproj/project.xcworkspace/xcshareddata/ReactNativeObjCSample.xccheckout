@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4EFB0CE-A273-45FC-848E-1CA258D8028E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReactNativeObjCSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9CF6D881778E2897FEBFC0A871A35F384F5684B1</key>
+		<string>github.com:hrk-ys/react-native-sample-objc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReactNativeObjCSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9CF6D881778E2897FEBFC0A871A35F384F5684B1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:hrk-ys/react-native-sample-objc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9CF6D881778E2897FEBFC0A871A35F384F5684B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CF6D881778E2897FEBFC0A871A35F384F5684B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ReactNativeObjCSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
